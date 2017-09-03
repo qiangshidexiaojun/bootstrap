@@ -1,0 +1,35 @@
+.info{
+    width: 302px;
+    height: 92px;
+}
+
+.info-1:hover,.info-2:hover,.info-3:hover,.info-4:hover,.info-5:hover,.info-6:hover{
+    color: red;
+    cursor: pointer;
+}
+
+.infoimg{
+    width: 31px;
+    height: 31px;
+    float: left;
+    margin: 30px 10px 30px 57px;
+}
+
+.infoimg img{
+    float: left;
+}
+
+.infocontent{
+    float: left;
+    margin-top: 15px;
+}
+
+.infocontent h4{
+    font-size: 18px;
+    font-weight: normal;
+}
+
+.infocontent p{
+    font-size: 14px;
+}
+
